@@ -12,11 +12,12 @@
     Name pendulum object/prim as "Pendulum" case sensitive
 
 
-    @author: Lilim
-    @updated: "2022-07-15 02:44:39"
+    @author: Zai Dium
+    @license: by-nc-sa [https://creativecommons.org/licenses/by-nc-sa/4.0/]
+    @updated: "2024-10-11 00:55:49"
     @localfile: ?defaultpath\PendulumClock\?@name.lsl
     @version: 1
-    @revision: 12
+    @revision: 13
 
     @ref:
         http://wiki.secondlife.com/wiki/LlGetGMTclock
